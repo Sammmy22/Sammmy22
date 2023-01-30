@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding, Web Development.
 - 🌱 I’m currently exploring new technologies.
 - 💞️ I’m looking to collaborate on any project you would like me to.
-- 📫 How to reach me @sammmbhav on instagram or email me sambhavc225@outlook.com
+- 📫 How to reach me? @sammmbhav on instagram or email me sambhavc225@outlook.com
 
 <!---
 Sammmy22/Sammmy22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
