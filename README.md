@@ -15,9 +15,9 @@
 - **Other:** Blockchain, Smart Contracts
 
 ### 🌟 Favorite Project
-- [Blockchain Voting Repo](#)  
+- [Blockchain Voting Repo](https://github.com/Sammmy22/election-app)  
   _Building secure and transparent voting systems on the blockchain._  
-  (Add the actual repo link here!)
+  
 
 ### 🎮 Fun Facts
 - Love playing video games 🕹️
