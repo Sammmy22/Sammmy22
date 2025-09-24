@@ -1,10 +1,31 @@
-- Hi, I’m Sambhav
-- I’m interested in App and Web Development.
-- I’m currently exploring new technologies.
-- I’m looking to collaborate on any project you would like me to.
-- How to reach me? @sammmbhav on instagram or email me sambhavc225@outlook.com
+# Hi there, I'm Sambhav Choudhary 👋
 
-<!---
-Sammmy22/Sammmy22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Software Developer** | NextJS • Firebase • React • Python • Blockchain
+
+---
+
+### 👨‍💻 About Me
+- Passionate developer with a focus on modern web technologies and blockchain solutions.
+- Enthusiast for open-source and collaborative coding.
+- Always exploring new tools and frameworks to level up my skills.
+
+### 🚀 Tech Stack
+- **Frontend:** NextJS, React
+- **Backend:** Firebase, Python
+- **Other:** Blockchain, Smart Contracts
+
+### 🌟 Favorite Project
+- [Blockchain Voting Repo](#)  
+  _Building secure and transparent voting systems on the blockchain._  
+  (Add the actual repo link here!)
+
+### 🎮 Fun Facts
+- Love playing video games 🕹️
+- Big fan of F1 and cricket 🏎️🏏
+
+### 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sambhav-22-choudhary/)
+
+---
+
+*Let’s build something amazing together!*
